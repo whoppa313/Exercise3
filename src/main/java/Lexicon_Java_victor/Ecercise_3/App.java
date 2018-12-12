@@ -22,9 +22,16 @@ public class App
     	int h = 12;
     	
     	
+    	int sum = a + b;
+    	int sum2 = g - h;
     	
-      System.out.print(a + b + " " + c * d + " " + e / f + " " );												
-      System.out.println(g - h);
+      System.out.println("45 + 11 = " + sum);
+      System.out.println("     ");
+      System.out.println("12 * 4 = " + c * d);
+      System.out.println("     ");
+      System.out.println("24 / 6 = " + e / f);
+      System.out.println("     ");
+      System.out.println("55 - 12 = " + sum2);
       
    
     
